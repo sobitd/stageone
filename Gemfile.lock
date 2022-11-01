@@ -158,10 +158,11 @@ DEPENDENCIES
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 7.0.4)
+  rake (~> 13.0, >= 13.0.6)
   tzinfo-data
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.1.0p0
 
 BUNDLED WITH
    2.3.24
